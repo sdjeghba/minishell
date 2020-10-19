@@ -4,7 +4,7 @@
 
 </br> Display a prompt, waiting for a command validated by pressing the enter key.
 </br> Doesn't support pipes/redirections or some advanced functions.
-</br> Look and launch the executables relative to the PATH in the env.
+</br> Launch the executables. *(relative to the PATH in the env)*
 </br> <ul>Some builtins like :
 <li>echo </li>
 <li> cd </li>
