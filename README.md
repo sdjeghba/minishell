@@ -1,7 +1,5 @@
 # minishell
 
-### About the program and instructions
-
 *A project for 42 school, a mini UNIX command interpreter.*
 
 </br> Display a prompt, waiting for a command validated by pressing the enter key.
