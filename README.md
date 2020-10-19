@@ -8,11 +8,11 @@
 </br> Doesn't support pipes/redirections or some advanced functions.
 </br> Look and launch the executables relative to the PATH in the env.
 </br> <ul>Some builtins like :
-<li> - echo </li>
-<li> - cd </li>
-<li> - pwd </li>
-<li> - env </li>
-<li> - setenv </li>
-<li> - unsetenv </li>
-<li> - exit </li>
+<li>echo </li>
+<li> cd </li>
+<li> pwd </li>
+<li> env </li>
+<li> setenv </li>
+<li> unsetenv </li>
+<li> exit </li>
 </ul>
