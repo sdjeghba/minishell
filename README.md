@@ -9,10 +9,10 @@ Display a prompt, waiting for a command validated by pressing the enter key.
 </br> Look and launch the executables relative to the PATH in the env.
 
 </br>Some builtins like :
-	- echo
-	- pwd
-	- cd
-	- env
-	- setenv
-	- unsetenv
-	- exit
+	* echo
+	* pwd
+	* cd
+	* env
+	* setenv
+	* unsetenv
+	* exit
