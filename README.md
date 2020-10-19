@@ -5,6 +5,7 @@
 </br> Display a prompt, waiting for a command validated by pressing the enter key.
 </br> Doesn't support pipes/redirections or some advanced functions.
 </br> Launch the executables. *(relative to the PATH in the env)*
+
 </br> Some builtins like :
 <ul>
  <li>echo </li>
